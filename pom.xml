@@ -140,5 +140,6 @@
 			<version>1.15</version>
 		</dependency>
 	</dependencies>
+	<description>SAML2 endoding utils</description>
 </project>
 
