@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.vergien.saml2encoding</groupId>
 	<artifactId>saml2-encoding-utils</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<properties>
@@ -16,7 +16,7 @@
 		<url>https://github.com/dve/SAMl2EncodingUtils.git</url>
 		<connection>scm:git:https://github.com:dve/SAMl2EncodingUtils.git</connection>
 		<developerConnection>scm:git:git@github.com:dve/SAMl2EncodingUtils.git</developerConnection>
-		<tag>saml2-encoding-utils-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<licenses>
 		<license>
